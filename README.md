@@ -1,6 +1,6 @@
 # Executive IT auditing:
 ## Introduction
-This Github repository is designed for students of the Exectuvie Master IT auditing. 
+This Github repository is designed for students of the Executive Master IT auditing. 
 
 ## Prerequisities
 This project uses Jupyter Notebook in combination with Python 3. These can be downloaded using Anaconda:
